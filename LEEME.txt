@@ -1,0 +1,18 @@
+MAESTRO SEBASTIAN — PÁGINA WEB
+
+Archivos:
+- index.html: página web adaptable a móviles y computadoras.
+- maestro-sebastian.jpg: fotografía original usada SIN cambiar el rostro ni sustituir a la persona.
+
+PUBLICAR GRATIS CON NETLIFY DROP:
+1. En tu computadora, descomprime el archivo ZIP.
+2. Abre https://app.netlify.com/drop
+3. Arrastra la carpeta "maestro_sebastian_web" completa (la que contiene index.html y maestro-sebastian.jpg) a la zona de carga.
+4. Espera a que termine la publicación. Netlify te dará una dirección web terminada en netlify.app.
+5. Copia esa dirección y pégala en el campo de sitio web/enlace de tu perfil de TikTok.
+
+IMPORTANTE:
+- No subas solamente index.html: la fotografía debe estar junto a él en la misma carpeta.
+- El botón y el número llevan al WhatsApp +1 (669) 306-5849.
+- Para cambiar textos o teléfono en el futuro, abre index.html con el Bloc de notas y edita el contenido correspondiente.
+- Esta página todavía no está publicada; debes completar los pasos de Netlify para obtener tu enlace público.
