@@ -1,21 +1,19 @@
-ACTUALIZACION DE LA PAGINA - MESTRO SEBASTIAN
+ACTUALIZACION CORREGIDA - MESTRO SEBASTIAN
 
-Archivos:
-- index.html: pagina web actualizada.
-- maestro-sebastian.jpg: fotografia enviada por el usuario (se conserva la fotografia original con su fondo).
+El paquete contiene la nueva pagina y el retrato recortado:
+- index.html
+- maestro-sebastian-recortado.png
 
-CAMBIOS:
-- Diseño claro blanco y dorado, adaptable a teléfonos.
-- Fotografía vertical destacada a un costado en pantallas grandes.
-- Servicios añadidos: consultas espirituales, desuniones, retorno de pareja, amarres, cancelaciones, abre caminos, limpiezas energéticas, amuletos y protección, orientación y consejos.
-- Botón WhatsApp con mensaje preparado usando wa.me.
-- Instrucción alternativa para abrir el enlace en el navegador si TikTok no permite abrirlo desde su navegador interno.
+COMO ACTUALIZAR GITHUB PAGES
+1. Abre el repositorio jm003031/maestro-sebastian.
+2. En la pestaña Code, reemplaza el archivo index.html por el nuevo.
+3. Sube maestro-sebastian-recortado.png a la raiz del repositorio (junto a index.html).
+4. Puedes eliminar el archivo antiguo maestro-sebastian.jpg: la nueva pagina ya no lo utiliza.
+5. Pulsa Commit changes para guardar.
+6. No cambies Settings > Pages: debe seguir en main / (root).
+7. Cuando Actions termine en verde, abre y actualiza esta direccion:
+   https://jm003031.github.io/maestro-sebastian/
 
-PARA ACTUALIZAR GITHUB PAGES:
-1. Abre el repositorio https://github.com/jm003031/maestro-sebastian
-2. En Code, abre index.html y usa el icono del lapiz para editarlo, o elimina y vuelve a subir el archivo actualizado.
-3. Sube tambien maestro-sebastian.jpg y confirma Commit changes.
-4. Espera a que Actions termine la publicacion.
-5. Recarga https://jm003031.github.io/maestro-sebastian/ (si hace falta, abre una ventana privada).
+La foto PNG conserva al personaje de la fotografia original y lleva transparencia en el fondo. No se reemplazo por otra persona. El diseño usa fondo blanco calido, detalles dorados, velones negros, amuletos, los nueve servicios y el boton verde de WhatsApp.
 
-Nota: se conserva la fotografia original enviada. No se afirma que tenga el fondo eliminado.
+El boton principal y el enlace alternativo usan el enlace universal de WhatsApp con el mensaje preparado. Si TikTok bloquea la apertura desde su navegador interno, el visitante puede pulsar “abre este enlace en tu navegador”.
